@@ -17,17 +17,17 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi! 
+Hi 🤗! 
 
-Currently I'm a master student of **University of Science and Technology of China** (Sep. 2022 - Jun. 2025), advised by Prof. [S. Kevin Zhou](https://scholar.google.com/citations?user=8eNm2GMAAAAJ&hl=en). I am fortunate to be a member of [Medical Imaging, Robotics, Analytic Computing & Learning (MIRACLE) Lab](https://miracle.ustc.edu.cn/). Prior to this, I obtained my Bachelor's degree in Computer Science from **Hefei University of Technology** (Sep. 2018 - Jun. 2022).
+I am currently a master's student at the **University of Science and Technology of China** (Sep. 2022 - Jun. 2025), advised by Prof. [S. Kevin Zhou](https://scholar.google.com/citations?user=8eNm2GMAAAAJ&hl=en). I am fortunate to be a member of [Medical Imaging, Robotics, Analytic Computing & Learning (MIRACLE) Lab](https://miracle.ustc.edu.cn/). Prior to this, I obtained my Bachelor's degree in Computer Science from **Hefei University of Technology** (Sep. 2018 - Jun. 2022).
 
-My recent work focuses on diffusion models for ID-preserving image synthesis and image editing. If you are also interested, feel free to drop me an email.
+My recent work focuses on diffusion models for ID-preserving image synthesis and image editing. If you share similar interests, feel free to drop me an email.
 
 My long-term research goal is to develop generative AI systems that possess creativity on par with professional artists and designers.
 
 I enjoy creating beautiful things, such as photography and painting. I have over 50,000 followers on Pixiv and DeviantArt.
 
-📣 <font color="#dd0000">I am actively looking for Ph.D. / researcher opportunities.</font> Please check out my resume [here](resume/Sijin Chen's Resume.pdf).
+📣 <font color="#dd0000">I am actively seeking for Ph.D. / researcher opportunities.</font> Please check out my resume [here](resume/Sijin Chen's Resume.pdf).
 
 # 🔥 News
 
