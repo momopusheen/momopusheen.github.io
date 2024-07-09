@@ -28,7 +28,7 @@ My long-term research goal is to develop vision-language systems that can *compr
 
 - *May. 2024*. &nbsp;🎉🎉 We release [Mojo](https://arxiv.org/abs/2311.12342), a training-free method for image editing by manipulating skip connection features.
 - *May. 2024*. &nbsp;🐧🐧 Join Tencent as a research intern, working on ID-preserving image synthesis. 
-- *Oct. 2023*. &nbsp;🥇🥇 Win the <font color="#dd0000">Suzhou Industrial Park Scholarship</font>. 
+- *Dec. 2023*. &nbsp;🥇🥇 Win the <font color="#dd0000">Suzhou Industrial Park Scholarship</font>. 
 - *Nov. 2023*. &nbsp;🎉🎉 We release [LoCo](https://arxiv.org/abs/2311.12342), a state-of-the-art layout-to-image synthesis method. LoCo is a training-free plugin to improve the compositional capabilities of text-to-image diffusion models. Demo is available at [here](https://huggingface.co/spaces/Pusheen/LoCo).
 - *Jun. 2023*. &nbsp;🎉🎉 Our [DiffULD](https://arxiv.org/abs/2303.15728) paper is accepted to <font color="#dd0000">MICCAI 2023</font>. 
 
@@ -44,7 +44,7 @@ My long-term research goal is to develop vision-language systems that can *compr
 <div class='paper-box-text' markdown="1">
 
 [**<font size=4>Mojo: Training-Free Text-guided Image Editing via Skip Connection Modulation</font>**](https://arxiv.org/abs/2405.20853) \\
-**<font color="#000000">pre-print</font>** \\
+**<font color="#dd0000">ArXiv</font>** \\
 **<u>Peiang Zhao</u>**, Han Li, Ruiyang Jin, [S. Kevin Zhou](https://scholar.google.com/citations?user=8eNm2GMAAAAJ&hl=en)$^{\ddagger}$
 
 [arXiv](https://arxiv.org/abs/2405.20853) \| [project](https://meshxl.github.io/) 
@@ -59,11 +59,11 @@ My long-term research goal is to develop vision-language systems that can *compr
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ArXiv</div><img src='images/loco_teaser.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[**<font size=4>LoCo: Locally Constrained Training-Free Layout-to-Image Synthesis</font>**](https://arxiv.org/abs/2311.18651) \\
+[**<font size=4>LoCo: Locally Constrained Training-Free Layout-to-Image Synthesis</font>**](https://arxiv.org/abs/2311.12342) \\
 **<font color="#dd0000">ArXiv</font>** \\
 **<u>Peiang Zhao</u>**, Han Li, Ruiyang Jin, [S. Kevin Zhou](https://scholar.google.com/citations?user=8eNm2GMAAAAJ&hl=en)$^{\ddagger}$
 
-[arXiv](https://arxiv.org/abs/2405.20853) \| [project](https://meshxl.github.io/) \| [demo](https://meshxl.github.io/) 
+[arXiv](https://arxiv.org/abs/2311.12342) \| [project](https://momopusheen.github.io/LoCo/) \| [demo](https://huggingface.co/spaces/Pusheen/LoCo) 
 
 - Propose a training-free approach to improve the compositional capabilities of text-to-image diffusion models. 
 </div>
@@ -75,13 +75,13 @@ My long-term research goal is to develop vision-language systems that can *compr
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">MICCAI 2023</div><img src='images/diffULD.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[**<font size=4>DiffULD: Diffusive Universal Lesion Detection</font>**](https://arxiv.org/abs/2309.02999) \\
+[**<font size=4>DiffULD: Diffusive Universal Lesion Detection</font>**](https://arxiv.org/pdf/2303.15728) \\
 **<font color="#dd0000">MICCAI 2023</font>** 
 **<u>Peiang Zhao</u>**, Han Li, Ruiyang Jin, [S. Kevin Zhou](https://scholar.google.com/citations?user=8eNm2GMAAAAJ&hl=en)$^{\ddagger}$
 
 [paper](https://link.springer.com/chapter/10.1007/978-3-031-43904-9_10) \| [arXiv](https://arxiv.org/pdf/2303.15728) 
 
-- A diffusion model for Universal Lesion Detection (ULD).
+- Proposed a diffusion model for Universal Lesion Detection (ULD).
 </div>
 </div>
 
@@ -89,14 +89,13 @@ My long-term research goal is to develop vision-language systems that can *compr
 
 # 🥇 Awards and Scholarships
 
-- *Apr. 2024*. Award for **Outstanding Graduate Student** (rank 1/24).
-- *Oct. 2023*. **1st** place of the Scan2Cap Challenge in the 3rd Language for 3D Scene Workshop at *ICCV 2023*.
-- *Sep. 2023*. **National Scholarship** (rank 1/46).
-- *Sep. 2022*. **2nd** prize of the Scholarship for Outstanding Students of Master's Degrees.
-- *Sep. 2021*. Award for the Scholarship for Outstanding Students of Master's Degrees.
-- *Jun. 2021*. **2nd** prize of the Scholarship for Outstanding Students.
-
-
+- *Dec. 2023*. **Suzhou Industrial Park Scholarship**.
+- *Oct. 2023*. **1st** Class Scholarship, University of Science and Technology of China.
+- *Oct. 2022*. **1st** Class Scholarship, University of Science and Technology of China.
+- *Jun. 2022*. **Outstanding Graduate**, Hefei University of Technology.
+- *Aug. 2021*. **2nd** Prize, National Intelligent Car Race for University Students.
+- *Dec. 2020*. **2nd** Prize, National Intelligent Car Race for University Students.
+- *Jun. 2019*. **1st** Prize, Competition of Embedded Systems of Anhui Province.
 
 
 # 📖 Educations
