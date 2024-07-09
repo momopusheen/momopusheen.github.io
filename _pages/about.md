@@ -32,7 +32,7 @@ I enjoy creating beautiful things, such as photography and painting. I have over
 # 🔥 News
 
 
-- *May. 2024*. &nbsp;🎉🎉 We release [Mojo](https://arxiv.org/abs/2311.12342), a training-free method for image editing by manipulating skip connection features.
+- *May. 2024*. &nbsp;🎉🎉 We release [Mojo](https://github.com/momopusheen/Mojo/blob/main/Mojo_Training-Free_Image_Editing_via_Skip_Connection_Modulation.pdf), a training-free method for image editing by manipulating skip connection features. Check out [here](https://momopusheen.github.io/Mojo/) for details.
 - *May. 2024*. &nbsp;🐧🐧 Join <font color="#dd0000">Tencent</font> as a research intern, working on ID-preserving image synthesis. 
 - *Dec. 2023*. &nbsp;🥇🥇 Win the <font color="#dd0000">Suzhou Industrial Park Scholarship</font>. 
 - *Nov. 2023*. &nbsp;🎉🎉 We are excited to release [LoCo](https://arxiv.org/abs/2311.12342), a state-of-the-art layout-to-image synthesis method. LoCo is a training-free plugin designed to enhance the compositional capabilities of text-to-image diffusion models. A demo is available [here](https://huggingface.co/spaces/Pusheen/LoCo).
