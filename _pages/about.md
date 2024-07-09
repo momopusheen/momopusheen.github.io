@@ -21,18 +21,16 @@ Currently I'm a master student of **University of Science and Technology of Chin
 
 My long-term research goal is to develop vision-language systems that can *comprehend*, *reason*, and *envision* the physical world.
 
-📣 <font color="#dd0000">I am actively looking for researcher / Ph.D. opportunities.</font> Please check out my resume [here](resume/Sijin Chen's Resume.pdf).
+📣 <font color="#dd0000">I am actively looking for Ph.D. / researcher opportunities.</font> Please check out my resume [here](resume/Sijin Chen's Resume.pdf).
 
 # 🔥 News
 
-- *Jul. 2024*. &nbsp;🎉🎉 [M3DBench](https://arxiv.org/abs/2312.10763) [![](https://img.shields.io/github/stars/OpenM3D/M3DBench?style=social)](https://github.com/OpenM3D/M3DBench), a large scale dataset querying 3D LLMs with multi-modal prompts, is accepted to <font color="#dd0000">ECCV 2024</font>.
-- *May. 2024*. &nbsp;🎉🎉 We release [MeshXL](https://arxiv.org/abs/2405.20853) [![](https://img.shields.io/github/stars/OpenMeshLab/MeshXL?style=social)](https://github.com/OpenMeshLab/MeshXL), a family of generative 3D foundation models for 3D meshes.
-- *May. 2024*. &nbsp;🎉🎉 I successfully defended my master's thesis! \[[defense slides](presentation/Sijin_Chen_master_thesis_defense.pdf)\]
-- *Apr. 2024*. &nbsp;🎉🎉 Our state-of-the-art 3D dense captioning method [Vote2Cap-DETR++](https://arxiv.org/abs/2309.02999) [![](https://img.shields.io/github/stars/ch3cook-fdu/Vote2Cap-DETR?style=social)](https://github.com/ch3cook-fdu/Vote2Cap-DETR), is accepted to <font color="#dd0000">T-PAMI 2024</font>. 
-- *Feb. 2024*. &nbsp;🎉🎉 Our Large Language 3D Assistant, [LL3DA](https://arxiv.org/abs/2311.18651) [![](https://img.shields.io/github/stars/Open3DA/LL3DA?style=social)](https://github.com/Open3DA/LL3DA), is accepted to <font color="#dd0000">CVPR 2024</font>. 
-- *Jan. 2024*. &nbsp;🐧🐧 Join Tencent as a research intern, working on 3D generation. 
-- *Oct. 2023*. &nbsp;🥇🥇 Win the Scan2Cap Challenge at <font color="#dd0000">ICCV 2023</font>. 
-- *Feb. 2023*. &nbsp;🎉🎉 Our [Vote2Cap-DETR](https://arxiv.org/abs/2301.02508) [![](https://img.shields.io/github/stars/ch3cook-fdu/Vote2Cap-DETR?style=social)](https://github.com/ch3cook-fdu/Vote2Cap-DETR) paper is accepted to <font color="#dd0000">CVPR 2023</font>. 
+
+- *May. 2024*. &nbsp;🎉🎉 We release [Mojo](https://arxiv.org/abs/2311.12342), a training-free method for text-guided image editing.
+- *May. 2024*. &nbsp;🐧🐧 Join Tencent as a research intern, working on ID-preserving image Synthesis. 
+- *Oct. 2023*. &nbsp;🥇🥇 Win the <font color="#dd0000">Suzhou Industrial Park Scholarship</font>. 
+- *Nov. 2023*. &nbsp;🎉🎉 We release [LoCo](https://arxiv.org/abs/2311.12342), a state-of-the-art layout-to-image synthesis method. LoCo is a training-free plugin to improve the compositional capabilities of text-to-image diffusion models. Demo is available at [here](https://huggingface.co/spaces/Pusheen/LoCo)
+- *Feb. 2023*. &nbsp;🎉🎉 Our [DiffULD](https://arxiv.org/abs/2303.15728) paper is accepted to <font color="#dd0000">MICCAI 2023</font>. 
 
 
 
