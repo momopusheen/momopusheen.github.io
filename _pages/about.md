@@ -59,7 +59,7 @@ My long-term research goal is to develop vision-language systems that can *compr
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2024</div><img src='images/LL3DA.gif' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[**<font size=4>LL3DA: Visual Interactive Instruction Tuning for Omni-3D Understanding, Reasoning, and Planning</font>**](https://arxiv.org/abs/2311.18651) \\
+[**<font size=4>LoCo: Locally Constrained Training-Free Layout-to-Image Synthesis</font>**](https://arxiv.org/abs/2311.18651) \\
 **<font color="#dd0000">CVPR 2024</font>** | [![](https://img.shields.io/github/stars/Open3DA/LL3DA?style=social)](https://github.com/Open3DA/LL3DA) \\
 **<u>Sijin Chen</u>**, [Xin Chen](https://chenxin.tech/)$^{\dagger}$, [Chi Zhang](https://icoz69.github.io/), Mingsheng Li, [Gang Yu](https://www.skicyyu.org/), [Hao Fei](http://haofei.vip/), [Hongyuan Zhu](https://hongyuanzhu.github.io/), Jiayuan Fan, [Tao Chen](https://eetchen.github.io/)$^{\ddagger}$
 
@@ -118,8 +118,8 @@ My long-term research goal is to develop vision-language systems that can *compr
 
 # 📖 Educations
 
-- *Sep. 2021 - Jun. 2024 (expected)*. Master student at Fudan University. 
-- *Sep. 2017 - Jun. 2021*. Bachelor student at Fudan University. 
+- *Sep. 2022 - Jun. 2024 (expected)*. Master student at University of Science and Technology of China. 
+- *Sep. 2018 - Jun. 2022*. Bachelor student at Hefei University of Technology. 
 
 
 
