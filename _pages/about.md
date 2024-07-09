@@ -64,7 +64,7 @@ I enjoy creating beautiful things, such as photography and painting. I have over
 **<font color="#dd0000">ArXiv</font>** \\
 **<u>Peiang Zhao</u>**, Han Li, Ruiyang Jin, [S. Kevin Zhou](https://scholar.google.com/citations?user=8eNm2GMAAAAJ&hl=en)$^{\ddagger}$
 
-[arXiv](https://arxiv.org/abs/2405.20853) \| [project](https://momopusheen.github.io/Mojo/) 
+[arXiv](https://github.com/momopusheen/Mojo/blob/main/Mojo_Training-Free_Image_Editing_via_Skip_Connection_Modulation.pdf) \| [project](https://momopusheen.github.io/Mojo/) 
 
 - A plug-and-play approach for text-guided image editing by modulating skip connection features.
 </div>
