@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Currently I'm a master student of **University of Science and Technology of China** (Sep. 2022 - Jun. 2025), advised by [S. Kevin Zhou](https://eetchen.github.io/) is my advisor. I am fortunate to be a member of [Medical Imaging, Robotics, Analytic Computing & Learning (MIRACLE) Lab](https://miracle.ustc.edu.cn/). Before this, I obtained my Bachelor's degree in Computer Science from **Hefei University of Technology** (Sep. 2018 - Jun. 2022).
+Currently I'm a master student of **University of Science and Technology of China** (Sep. 2022 - Jun. 2025), advised by [S. Kevin Zhou](https://eetchen.github.io/). I am fortunate to be a member of [Medical Imaging, Robotics, Analytic Computing & Learning (MIRACLE) Lab](https://miracle.ustc.edu.cn/). Before this, I obtained my Bachelor's degree in Computer Science from **Hefei University of Technology** (Sep. 2018 - Jun. 2022).
 
 My long-term research goal is to develop vision-language systems that can *comprehend*, *reason*, and *envision* the physical world.
 
@@ -26,11 +26,11 @@ My long-term research goal is to develop vision-language systems that can *compr
 # 🔥 News
 
 
-- *May. 2024*. &nbsp;🎉🎉 We release [Mojo](https://arxiv.org/abs/2311.12342), a training-free method for text-guided image editing.
-- *May. 2024*. &nbsp;🐧🐧 Join Tencent as a research intern, working on ID-preserving image Synthesis. 
+- *May. 2024*. &nbsp;🎉🎉 We release [Mojo](https://arxiv.org/abs/2311.12342), a training-free method for image editing by manipulating skip connection features.
+- *May. 2024*. &nbsp;🐧🐧 Join Tencent as a research intern, working on ID-preserving image synthesis. 
 - *Oct. 2023*. &nbsp;🥇🥇 Win the <font color="#dd0000">Suzhou Industrial Park Scholarship</font>. 
-- *Nov. 2023*. &nbsp;🎉🎉 We release [LoCo](https://arxiv.org/abs/2311.12342), a state-of-the-art layout-to-image synthesis method. LoCo is a training-free plugin to improve the compositional capabilities of text-to-image diffusion models. Demo is available at [here](https://huggingface.co/spaces/Pusheen/LoCo)
-- *Feb. 2023*. &nbsp;🎉🎉 Our [DiffULD](https://arxiv.org/abs/2303.15728) paper is accepted to <font color="#dd0000">MICCAI 2023</font>. 
+- *Nov. 2023*. &nbsp;🎉🎉 We release [LoCo](https://arxiv.org/abs/2311.12342), a state-of-the-art layout-to-image synthesis method. LoCo is a training-free plugin to improve the compositional capabilities of text-to-image diffusion models. Demo is available at [here](https://huggingface.co/spaces/Pusheen/LoCo).
+- *Jun. 2023*. &nbsp;🎉🎉 Our [DiffULD](https://arxiv.org/abs/2303.15728) paper is accepted to <font color="#dd0000">MICCAI 2023</font>. 
 
 
 
@@ -40,14 +40,14 @@ My long-term research goal is to develop vision-language systems that can *compr
 
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ArXiv</div><img src='images/meshxl.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ArXiv</div><img src='mojo.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[**<font size=4>MeshXL: Neural Coordinate Field for Generative 3D Foundation Models</font>**](https://arxiv.org/abs/2405.20853) \\
-**<font color="#000000">pre-print</font>** | [![](https://img.shields.io/github/stars/OpenMeshLab/MeshXL?style=social)](https://github.com/OpenMeshLab/MeshXL) \\
-**<u>Sijin Chen</u>**, [Xin Chen](https://chenxin.tech/)$^{\dagger}$, Anqi Pang, [Xianfang Zeng](https://april.zju.edu.cn/team/xianfang-zeng/), [Wei Cheng](https://wchengad.github.io/), Yijun Fu, [Fukun Yin](https://fukunyin.github.io/), Yanru Wang, Zhibin Wang, [Chi Zhang](https://icoz69.github.io/), [Jingyi Yu](http://www.yu-jingyi.com/cv/), [Gang Yu](https://www.skicyyu.org/), Bin Fu, [Tao Chen](https://eetchen.github.io/)$^{\ddagger}$
+[**<font size=4>Mojo: Training-Free Text-guided Image Editing via Skip Connection Modulation</font>**](https://arxiv.org/abs/2405.20853) \\
+**<font color="#000000">pre-print</font>** \\
+**<u>Peiang Zhao</u>**, [Han Li](https://chenxin.tech/), Ruiyang Jin, [S. Kevin Zhou](https://eetchen.github.io/)$^{\ddagger}$
 
-[project](https://meshxl.github.io/) \| [arXiv](https://arxiv.org/abs/2405.20853) \| [github](https://github.com/OpenMeshLab/MeshXL)
+[project](https://meshxl.github.io/) \| [arXiv](https://arxiv.org/abs/2405.20853) 
 
 - Propose a family of auto-regressively generative pre-trained foundation models for 3D mesh generation.
 </div>
