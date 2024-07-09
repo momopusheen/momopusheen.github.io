@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Currently I'm a master student of **University of Science and Technology of China** (Sep. 2022 - Jun. 2025), advised by [S. Kevin Zhou](https://eetchen.github.io/). I am fortunate to be a member of [Medical Imaging, Robotics, Analytic Computing & Learning (MIRACLE) Lab](https://miracle.ustc.edu.cn/). Before this, I obtained my Bachelor's degree in Computer Science from **Hefei University of Technology** (Sep. 2018 - Jun. 2022).
+Currently I'm a master student of **University of Science and Technology of China** (Sep. 2022 - Jun. 2025), advised by [S. Kevin Zhou](https://scholar.google.com/citations?user=8eNm2GMAAAAJ&hl=en). I am fortunate to be a member of [Medical Imaging, Robotics, Analytic Computing & Learning (MIRACLE) Lab](https://miracle.ustc.edu.cn/). Before this, I obtained my Bachelor's degree in Computer Science from **Hefei University of Technology** (Sep. 2018 - Jun. 2022).
 
 My long-term research goal is to develop vision-language systems that can *comprehend*, *reason*, and *envision* the physical world.
 
@@ -45,9 +45,9 @@ My long-term research goal is to develop vision-language systems that can *compr
 
 [**<font size=4>Mojo: Training-Free Text-guided Image Editing via Skip Connection Modulation</font>**](https://arxiv.org/abs/2405.20853) \\
 **<font color="#000000">pre-print</font>** \\
-**<u>Peiang Zhao</u>**, [Han Li](https://chenxin.tech/), Ruiyang Jin, [S. Kevin Zhou](https://eetchen.github.io/)$^{\ddagger}$
+**<u>Peiang Zhao</u>**, Han Li, Ruiyang Jin, [S. Kevin Zhou](https://scholar.google.com/citations?user=8eNm2GMAAAAJ&hl=en)$^{\ddagger}$
 
-[project](https://meshxl.github.io/) \| [arXiv](https://arxiv.org/abs/2405.20853) 
+[arXiv](https://arxiv.org/abs/2405.20853) \| [project](https://meshxl.github.io/) 
 
 - Propose a family of auto-regressively generative pre-trained foundation models for 3D mesh generation.
 </div>
@@ -56,14 +56,14 @@ My long-term research goal is to develop vision-language systems that can *compr
 
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2024</div><img src='images/LL3DA.gif' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ArXiv</div><img src='images/loco_teaser.pn' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [**<font size=4>LoCo: Locally Constrained Training-Free Layout-to-Image Synthesis</font>**](https://arxiv.org/abs/2311.18651) \\
-**<font color="#dd0000">CVPR 2024</font>** | [![](https://img.shields.io/github/stars/Open3DA/LL3DA?style=social)](https://github.com/Open3DA/LL3DA) \\
-**<u>Sijin Chen</u>**, [Xin Chen](https://chenxin.tech/)$^{\dagger}$, [Chi Zhang](https://icoz69.github.io/), Mingsheng Li, [Gang Yu](https://www.skicyyu.org/), [Hao Fei](http://haofei.vip/), [Hongyuan Zhu](https://hongyuanzhu.github.io/), Jiayuan Fan, [Tao Chen](https://eetchen.github.io/)$^{\ddagger}$
+**<font color="#dd0000">ArXiv</font>** \\
+**<u>Peiang Zhao</u>**, Han Li, Ruiyang Jin, [S. Kevin Zhou](https://scholar.google.com/citations?user=8eNm2GMAAAAJ&hl=en)$^{\ddagger}$
 
-[paper](https://openaccess.thecvf.com/content/CVPR2024/papers/Chen_LL3DA_Visual_Interactive_Instruction_Tuning_for_Omni-3D_Understanding_Reasoning_and_CVPR_2024_paper.pdf) \| [project](https://ll3da.github.io/) \| [arXiv](https://arxiv.org/abs/2311.18651) \| [github](https://github.com/Open3DA/LL3DA) \| [youtube](https://www.youtube.com/watch?v=224JzkdHjfg)
+[arXiv](https://arxiv.org/abs/2405.20853) \| [project](https://meshxl.github.io/) \| [demo](https://meshxl.github.io/) 
 
 - Propose a Large Language 3D Assistant that responds to both visual interactions and textual instructions in complex 3D environments.
 </div>
@@ -72,7 +72,7 @@ My long-term research goal is to develop vision-language systems that can *compr
 
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">T-PAMI 2024</div><img src='images/vote2cap-detr++ arXiv.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">MICCAI 2023</div><img src='images/vote2cap-detr++ arXiv.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [**<font size=4>Vote2Cap-DETR++: Decoupling Localization and Describing for End-to-End 3D Dense Captioning</font>**](https://arxiv.org/abs/2309.02999) \\
@@ -84,23 +84,6 @@ My long-term research goal is to develop vision-language systems that can *compr
 - Decoupled feature extraction and task decoding for 3D Dense Captioning.
 </div>
 </div>
-
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2023</div><img src='images/vote2cap-detr cvpr2023.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[**<font size=4>End-to-End 3D Dense Captioning with Vote2Cap-DETR</font>**](https://openaccess.thecvf.com/content/CVPR2023/html/Chen_End-to-End_3D_Dense_Captioning_With_Vote2Cap-DETR_CVPR_2023_paper.html) \\
-**<font color="#dd0000">CVPR 2023</font>** | [![](https://img.shields.io/github/stars/ch3cook-fdu/Vote2Cap-DETR?style=social)](https://github.com/ch3cook-fdu/Vote2Cap-DETR) \\
-**<u>Sijin Chen</u>**, [Hongyuan Zhu](https://hongyuanzhu.github.io/), [Xin Chen](https://chenxin.tech/), Yinjie Lei, [Gang Yu](https://www.skicyyu.org/), [Tao Chen](https://eetchen.github.io/)$^{\dagger}$
-
-[paper](https://openaccess.thecvf.com/content/CVPR2023/html/Chen_End-to-End_3D_Dense_Captioning_With_Vote2Cap-DETR_CVPR_2023_paper.html) \| [arXiv](https://arxiv.org/abs/2301.02508) \| [github](https://github.com/ch3cook-fdu/Vote2Cap-DETR) \| [youtube](https://www.youtube.com/watch?v=azR_OvPWYfo)
-
-- We address 3D Dense Captioning as a set prediction problem with parallel decoding.
-- The first non-"detect-then-describe" framework for 3D Dense Captioning.
-- 🥇 Winner of the Scan2Cap Challenge in the 3rd Language for 3D Scene Workshop at ICCV 2023. [[talk]](https://www.youtube.com/watch?v=RLrdi-Yhn1o)
-</div>
-</div>
-
 
 
 
