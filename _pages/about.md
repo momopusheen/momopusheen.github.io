@@ -48,7 +48,7 @@ I enjoy creating beautiful things, such as photography and painting. I am also a
 <div class='paper-box-text' markdown="1">
 
 [**<font size=4>LoCo: Locally Constrained Training-Free Layout-to-Image Synthesis</font>**](https://arxiv.org/abs/2311.12342) \\
-**<font color="#dd0000">ArXiv</font>** \\
+**<font color="#dd0000">Under Review</font>** \\
 **<u>Peiang Zhao</u>**, Han Li, Ruiyang Jin, [S. Kevin Zhou](https://scholar.google.com/citations?user=8eNm2GMAAAAJ&hl=en)$^{\ddagger}$
 
 [arXiv](https://arxiv.org/abs/2311.12342) \| [project](https://momopusheen.github.io/LoCo/) \| [demo](https://huggingface.co/spaces/Pusheen/LoCo) 
@@ -61,7 +61,7 @@ I enjoy creating beautiful things, such as photography and painting. I am also a
 <div class='paper-box-text' markdown="1">
 
 [**<font size=4>Mojo: Training-Free Text-guided Image Editing via Skip Connection Modulation</font>**](https://arxiv.org/abs/2405.20853) \\
-**<font color="#dd0000">ArXiv</font>** \\
+**<font color="#dd0000">Under Review</font>** \\
 **<u>Peiang Zhao</u>**, Han Li, Ruiyang Jin, [S. Kevin Zhou](https://scholar.google.com/citations?user=8eNm2GMAAAAJ&hl=en)$^{\ddagger}$
 
 [arXiv](https://github.com/momopusheen/Mojo/blob/main/Mojo_Training-Free_Image_Editing_via_Skip_Connection_Modulation.pdf) \| [project](https://momopusheen.github.io/Mojo/) 
