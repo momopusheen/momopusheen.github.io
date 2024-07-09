@@ -6,7 +6,7 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Peiang Zhao (赵沛昂)"
+title                    : "Peiang Zhao"
 description              : "Focusing on generative models, vision and language."
 repository               : 
 google_scholar_stats_use_cdn : true
@@ -21,7 +21,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Peiang Zhao (赵沛昂)"
+  name             : "Peiang Zhao / 赵沛昂"
   # avatar           : "images/android-chrome-512x512.png"
   avatar           : "images/src_umi.jpg"
   bio              : "University of Science and Technology of China"
