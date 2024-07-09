@@ -19,7 +19,7 @@ redirect_from:
 
 Currently I'm a master student of **University of Science and Technology of China** (Sep. 2022 - Jun. 2025), advised by Prof. [S. Kevin Zhou](https://scholar.google.com/citations?user=8eNm2GMAAAAJ&hl=en). I am fortunate to be a member of [Medical Imaging, Robotics, Analytic Computing & Learning (MIRACLE) Lab](https://miracle.ustc.edu.cn/). Prior to this, I obtained my Bachelor's degree in Computer Science from **Hefei University of Technology** (Sep. 2018 - Jun. 2022).
 
-My long-term research goal is to develop vision-language systems that can *comprehend*, *reason*, and *envision* the physical world.
+My long-term research goal is to develop generative AI systems that possess creativity on par with professional artists and designers.
 
 📣 <font color="#dd0000">I am actively looking for Ph.D. / researcher opportunities.</font> Please check out my resume [here](resume/Sijin Chen's Resume.pdf).
 
@@ -29,7 +29,7 @@ My long-term research goal is to develop vision-language systems that can *compr
 - *May. 2024*. &nbsp;🎉🎉 We release [Mojo](https://arxiv.org/abs/2311.12342), a training-free method for image editing by manipulating skip connection features.
 - *May. 2024*. &nbsp;🐧🐧 Join <font color="#dd0000">Tencent</font> as a research intern, working on ID-preserving image synthesis. 
 - *Dec. 2023*. &nbsp;🥇🥇 Win the <font color="#dd0000">Suzhou Industrial Park Scholarship</font>. 
-- *Nov. 2023*. &nbsp;🎉🎉 We release [LoCo](https://arxiv.org/abs/2311.12342), a state-of-the-art layout-to-image synthesis method. LoCo is a training-free plugin to improve the compositional capabilities of text-to-image diffusion models. Demo is available at [here](https://huggingface.co/spaces/Pusheen/LoCo).
+- *Nov. 2023*. &nbsp;🎉🎉 We are excited to release [LoCo](https://arxiv.org/abs/2311.12342), a state-of-the-art layout-to-image synthesis method. LoCo is a training-free plugin designed to enhance the compositional capabilities of text-to-image diffusion models. A demo is available [here](https://huggingface.co/spaces/Pusheen/LoCo).
 - *Jun. 2023*. &nbsp;🎉🎉 Our [DiffULD](https://arxiv.org/abs/2303.15728) paper is accepted to <font color="#dd0000">MICCAI 2023</font>. 
 
 
