@@ -44,7 +44,18 @@ I enjoy creating beautiful things, such as photography and painting. I have over
 # 📝 Selected Publications 
 
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ArXiv</div><img src='images/loco_teaser.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
 
+[**<font size=4>LoCo: Locally Constrained Training-Free Layout-to-Image Synthesis</font>**](https://arxiv.org/abs/2311.12342) \\
+**<font color="#dd0000">ArXiv</font>** \\
+**<u>Peiang Zhao</u>**, Han Li, Ruiyang Jin, [S. Kevin Zhou](https://scholar.google.com/citations?user=8eNm2GMAAAAJ&hl=en)$^{\ddagger}$
+
+[arXiv](https://arxiv.org/abs/2311.12342) \| [project](https://momopusheen.github.io/LoCo/) \| [demo](https://huggingface.co/spaces/Pusheen/LoCo) 
+
+- State-of-the-art training-free method for layout-to-image synthesis. 
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ArXiv</div><img src='images/mojo.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -62,18 +73,7 @@ I enjoy creating beautiful things, such as photography and painting. I have over
 
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ArXiv</div><img src='images/loco_teaser.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
 
-[**<font size=4>LoCo: Locally Constrained Training-Free Layout-to-Image Synthesis</font>**](https://arxiv.org/abs/2311.12342) \\
-**<font color="#dd0000">ArXiv</font>** \\
-**<u>Peiang Zhao</u>**, Han Li, Ruiyang Jin, [S. Kevin Zhou](https://scholar.google.com/citations?user=8eNm2GMAAAAJ&hl=en)$^{\ddagger}$
-
-[arXiv](https://arxiv.org/abs/2311.12342) \| [project](https://momopusheen.github.io/LoCo/) \| [demo](https://huggingface.co/spaces/Pusheen/LoCo) 
-
-- State-of-the-art training-free method for layout-to-image synthesis. 
-</div>
-</div>
 
 
 
