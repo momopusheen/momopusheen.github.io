@@ -122,5 +122,5 @@ I enjoy creating beautiful things, such as photography and painting. I am also a
 # 💻 Internships
 
 - *2024.05 - Present*. Tencent, QQ Image Lab, Shanghai, China.
-- *2020.06 - 2020.18*. FISTCO Shanghai R&D Center, Shanghai, China.
+- *2020.06 - 2020.08*. FISTCO Shanghai R&D Center, Shanghai, China.
   
