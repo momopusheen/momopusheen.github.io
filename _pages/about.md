@@ -27,7 +27,7 @@ My long-term research goal is to develop generative AI systems that possess crea
 
 I enjoy creating beautiful things, such as photography and painting. I am also an illustrator and have over 50,000 followers on Pixiv and DeviantArt.
 
-📣 <font color="#dd0000">I am actively seeking for Ph.D. / researcher opportunities.</font> Please check out my resume [here](resume/Peiang_Zhao_Resume1.pdf).
+📣 <font color="#dd0000">I am actively seeking for Ph.D. / researcher opportunities.</font> Please check out my resume [here](resume/Peiang_Zhao_CV.pdf).
 
 # 🔥 News
 
