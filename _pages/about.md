@@ -43,7 +43,7 @@ I enjoy creating beautiful things, such as photography and painting. I am also a
 
 # 📝 Selected Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ArXiv</div><img src='images/brainram_overview.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">MM 2024</div><img src='images/brainram_overview.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [**<font size=4>BrainRAM: Cross-Modality Retrieval-Augmented Image Reconstruction from Human Brain Activity</font>**](https://openreview.net/forum?id=6iqKhyq1N4&noteId=MGTbcSVGjR) \\
