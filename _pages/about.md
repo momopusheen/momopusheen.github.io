@@ -21,7 +21,7 @@ Hi 🤗!
 
 I am currently a master's student at the **University of Science and Technology of China** (Sep. 2022 - Jun. 2025), advised by Prof. [S. Kevin Zhou](https://scholar.google.com/citations?user=8eNm2GMAAAAJ&hl=en). I am fortunate to be a member of [Medical Imaging, Robotics, Analytic Computing & Learning (MIRACLE) Lab](https://miracle.ustc.edu.cn/). Prior to this, I obtained my Bachelor's degree in Computer Science from **Hefei University of Technology** (Sep. 2018 - Jun. 2022).
 
-My recent work focuses on diffusion models for ID-preserving image synthesis and image editing. If you share similar interests, feel free to drop me an email.
+My recent work focuses on diffusion models for personalized content synthesis and image editing. If you share similar interests, feel free to drop me an email.
 
 My long-term research goal is to develop generative AI systems that possess creativity on par with professional artists and designers.
 
@@ -42,6 +42,18 @@ I enjoy creating beautiful things, such as photography and painting. I am also a
 
 
 # 📝 Selected Publications 
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ArXiv</div><img src='images/brainram_overview.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[**<font size=4>BrainRAM: Cross-Modality Retrieval-Augmented Image Reconstruction from Human Brain Activity</font>**](https://openreview.net/forum?id=6iqKhyq1N4&noteId=MGTbcSVGjR) \\
+**<font color="#dd0000">ACM MM 2024 Oral</font>** \\
+Dian Xie, **<u>Peiang Zhao</u>**, Jiarui Zhang, Kangqi Wei, Xiaobao Ni, Jiong Xia
+[arXiv](https://openreview.net/forum?id=6iqKhyq1N4&noteId=MGTbcSVGjR) \| [project](https://github.com/HQ406/BrainRAM) 
+
+- A novel two-stage dual-guided framework for visual stimuli reconstruction from human brain activity.
+</div>
+</div>
 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ArXiv</div><img src='images/loco_teaser.png' alt="sym" width="100%"></div></div>
