@@ -48,7 +48,7 @@ I enjoy creating beautiful things, such as photography and painting. I am also a
 
 [**<font size=4>BrainRAM: Cross-Modality Retrieval-Augmented Image Reconstruction from Human Brain Activity</font>**](https://openreview.net/forum?id=6iqKhyq1N4&noteId=MGTbcSVGjR) \\
 **<font color="#dd0000">ACM MM 2024 Oral</font>** \\
-Dian Xie, **<u>Peiang Zhao</u>**, Jiarui Zhang, Kangqi Wei, Xiaobao Ni, Jiong Xia
+Dian Xie, **<u>Peiang Zhao</u>**, Jiarui Zhang, Kangqi Wei, Xiaobao Ni, Jiong Xia \\
 [arXiv](https://openreview.net/forum?id=6iqKhyq1N4&noteId=MGTbcSVGjR) \| [project](https://github.com/HQ406/BrainRAM) 
 
 - A novel two-stage dual-guided framework for visual stimuli reconstruction from human brain activity.
